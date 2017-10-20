@@ -1,0 +1,7 @@
+C:\Users\Luiz Henrique\source\repos\Ola Mundo\Ola Mundo\bin\Debug\Ola Mundo.exe.config
+C:\Users\Luiz Henrique\source\repos\Ola Mundo\Ola Mundo\bin\Debug\Ola Mundo.exe
+C:\Users\Luiz Henrique\source\repos\Ola Mundo\Ola Mundo\bin\Debug\Ola Mundo.pdb
+C:\Users\Luiz Henrique\source\repos\Ola Mundo\Ola Mundo\obj\Debug\Ola Mundo.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\Ola Mundo\Ola Mundo\obj\Debug\Ola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\Ola Mundo\Ola Mundo\obj\Debug\Ola Mundo.exe
+C:\Users\Luiz Henrique\source\repos\Ola Mundo\Ola Mundo\obj\Debug\Ola Mundo.pdb
