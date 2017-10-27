@@ -11,7 +11,7 @@ namespace Ola_Mundo
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Mundo");
-            Console.WriteLine("Bom dia");
+            Console.WriteLine("Tenha um bom dia");
             Console.WriteLine("Como Voce esta hoje");
 
             Console.ReadLine();
